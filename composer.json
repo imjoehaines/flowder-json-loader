@@ -4,8 +4,6 @@
     "keywords": [
         "fixtures",
         "fixture-loading",
-        "mysql",
-        "sqlite",
         "testing",
         "json"
     ],
