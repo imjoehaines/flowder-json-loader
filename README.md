@@ -1,4 +1,4 @@
-# Flowder JSON Loader [![Build Status](https://travis-ci.org/imjoehaines/flowder-json-loader.svg?branch=master)](https://travis-ci.org/imjoehaines/flowder-json-loader) [![codecov](https://codecov.io/gh/imjoehaines/flowder-json-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/imjoehaines/flowder-json-loader)
+# Flowder JSON Loader [![Latest Stable Version](https://poser.pugx.org/imjoehaines/flowder-json-loader/v/stable)](https://packagist.org/packages/imjoehaines/flowder-json-loader) [![Build Status](https://travis-ci.org/imjoehaines/flowder-json-loader.svg?branch=master)](https://travis-ci.org/imjoehaines/flowder-json-loader) [![codecov](https://codecov.io/gh/imjoehaines/flowder-json-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/imjoehaines/flowder-json-loader)
 
 A JSON file loader for [Flowder](https://github.com/imjoehaines/flowder)
 
