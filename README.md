@@ -11,3 +11,20 @@ A JSON file loader for [Flowder](https://github.com/imjoehaines/flowder)
    ```
 
 2. Pass an instance of `Imjoehaines\FlowderJson\JsonLoader` to Flowder, as detailed in the [Flowder readme](https://github.com/imjoehaines/flowder/blob/master/README.md#usage)
+
+3. Pass the path to a JSON file to `Flowder::loadFixtures`, your JSON file should contain an array of objects where each object represents a database row. For example
+
+```json
+[
+    {
+        "column_1": "value 1",
+        "column_2": 2,
+        "column_3": "three"
+    },
+    {
+        "column_1": "value 4",
+        "column_2": 5,
+        "column_3": "six"
+    }
+]
+```
